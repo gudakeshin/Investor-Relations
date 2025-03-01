@@ -1,0 +1,14 @@
+# Core dependencies
+openai==1.13.0  # Latest OpenAI library
+python-dotenv==1.0.0  # For loading environment variables
+requests==2.31.0  # For making HTTP requests
+pydantic==2.5.0  # For data validation (optional but useful)
+
+# Utility libraries
+python-dateutil==2.8.2  # Date parsing and manipulation
+pytz==2023.3  # Timezone support
+
+# Development tools
+pytest==7.4.0  # For unit testing
+black==23.7.0  # For code formatting
+pylint==2.17.5  # For linting

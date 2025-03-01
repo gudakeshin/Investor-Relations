@@ -1,0 +1,8 @@
+# OpenAI API configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Logging configuration (optional)
+LOG_LEVEL=INFO
+
+# API timeouts (optional)
+API_TIMEOUT=60
